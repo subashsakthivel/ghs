@@ -17,7 +17,7 @@ setup(
     include_package_data=True,
     long_description=README,
     long_description_content_type="text/markdown",
-    url="http://github.com/interviewstreet/ghs",
+    url="https://github.com/subashsakthivel/subashsakthivel",
     license="MIT",
     author="Hackerrank",
     author_email="pypi@hackerrank.com",
